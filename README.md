@@ -2,6 +2,8 @@
 
 FPGA向けハードウェアRTOS内蔵・POSIX対応 RISC-V RV32IM プロセッサ SoC
 
+VSync: RISC-**V**ertical **SYNC**: Bridging 5-stage Pipeline to POSIX Realtime OS.
+
 ## Overview
 
 VSyncは、リアルタイムOS(RTOS)をハードウェアで実装し、POSIXインターフェースを備えたRISC-V RV32IMプロセッサシステムです。SystemVerilogで記述され、Xilinx Artix UltraScale+ および Artix-7 FPGAをターゲットとしています。
